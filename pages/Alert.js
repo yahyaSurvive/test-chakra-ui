@@ -15,7 +15,7 @@ const TestAlert = () => {
     }
   };
 
-  const So123 = () => {
+  const So = () => {
     return (
       <Alert status="success" visibility={al === true ? "visible" : "hidden"}>
         <AlertIcon />
