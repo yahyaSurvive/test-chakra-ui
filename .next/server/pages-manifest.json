@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/Alert": "pages/Alert.html",
+  "/_document": "pages/_document.js",
+  "/Any": "pages/Any.html",
+  "/Grid": "pages/Grid.html",
+  "/Modals": "pages/Modals.html",
+  "/Position": "pages/Position.html",
+  "/api/hello": "pages/api/hello.js",
+  "/components/BtmNav": "pages/components/BtmNav.html",
+  "/": "pages/index.html",
+  "/404": "pages/404.html"
+}
